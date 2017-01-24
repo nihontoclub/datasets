@@ -1,4 +1,4 @@
-id,name_kanji,name,colloquial_reading_kanji,colloquial_reading,display_name,road,road_meaning,modern_prefecture
+Id,NameKanji,Name,ColloquialReadingKanji,ColloquialReading,DisplayName,Road,RoadEnglish,ModernPrefecture
 1,山城,Yamashiro,城州,Jōshū,"Yamashiro",Kinai,"The Home Provinces","Kyoto"
 2,大和,Yamato,和州,Washū,"Yamato",Kinai,"The Home Provinces","Nara"
 3,河内,Kawachi,河州,Kashū,"Kawachi",Kinai,"The Home Provinces","Osaka"
